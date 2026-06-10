@@ -207,5 +207,5 @@ This project helps in understanding:
 - Add search filters and sorting.
 - Add cloud database support.
 
-##Author
+## Author
 Surada Swetha Madhu — [GitHub](https://github.com/swetha9125)
